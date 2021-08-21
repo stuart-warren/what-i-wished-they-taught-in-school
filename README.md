@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## What I wish they taught in school
 
-You can use the [editor on GitHub](https://github.com/stuart-warren/what-i-wished-they-taught-in-school/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The idea for this site is to talk about technology/ideas that I wish were taught in school
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please feel free to [raise an issue](https://github.com/stuart-warren/what-i-wished-they-taught-in-school/issues) if there are subjects you feel should be added
 
-### Markdown
+### Potential Subjects
+- [ ] Version Control
+- [ ] Linux/Shell/Vim
+- [ ] Logging (structured, centralised, sensible)
+- [ ] Observability (metrics, healthchecks)
+- [ ] Error Handling (not exposing exceptions, error codes)
+- [ ] API lifecycle (versioning, upgrades, deprecating, minimising public interfaces, contract testing)
+- [ ] Interfaces (composability, smaller is better)
+- [ ] BDD/TDD (write tests to direct development)
+- [ ] SOLID principles
+- [ ] Database schema migrations
+- [ ] Software containers
+- [ ] Security (OIDC, 2FA, WebAuthn)
+- [ ] Namespaced labels/tags as metadata
+- [ ] API design
+- [ ] Structured web
+- [ ] Delaying decisions (database/frameworks)
+- [ ] Forced code style
+- [ ] Code written for reading over writing
+- [ ] 12Factor applications
+- [ ] Buildpacks
+- [ ] Continuous integration
+- [ ] Explicit/automatic dependency management
+- [ ] Fewer dependencies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stuart-warren/what-i-wished-they-taught-in-school/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
